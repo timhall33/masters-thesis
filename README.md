@@ -1,7 +1,7 @@
 # Machine Learning Time Series Forecasting: A Comprehensive Survey and Stock Market Application
 
-**Author:** Tim Hall
-**Institution:** University of Georgia
+**Author:** Tim Hall<br>
+**Institution:** University of Georgia<br>
 **Year:** 2025
 
 ## Abstract
